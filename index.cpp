@@ -39,4 +39,4 @@ void linearais(int mas[], int n){
     for(i=0; i<n && mas[i]!=x; i++);
     if(mas[i]==x) cout<<"\nSkaitlis ir atrasts";
         else cout<<"\nSkaitlis nav atrasts";
-}
+} //------------------------------------------
